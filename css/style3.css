@@ -1,0 +1,16 @@
+input[type="text"] {
+    height: 50px; 
+}
+
+input[name="send"] {
+    background-color: rgb(51, 173, 51);
+    height: 50px;
+}
+
+p[data-text="red"] {
+    color: red;
+}
+
+p[data-text="green"] {
+    color: green;
+}
